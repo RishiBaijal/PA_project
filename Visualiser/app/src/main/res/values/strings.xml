@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Visualiser</string>
+    <string name="edit_message">Enter your code here</string>
+    <string name="button_jimple">Generate Jimple</string>
+    <string name="button_shimple">Generate Shimple</string>
+    <string name="button_grimple">Generate Grimple</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jimple_code">JimpleCodeActivity</string>
+    <string name="title_activity_shimple_code">ShimpleCodeActivity</string>
+    <string name="title_activity_grimple_code">GrimpleCodeActivity</string>
+</resources>
